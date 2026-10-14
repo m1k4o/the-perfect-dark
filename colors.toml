@@ -1,0 +1,44 @@
+mode = "dark"
+
+# The Perfect Dark — Vibrant Summer palette on black #1b2021
+# ~Vibrant Coral  #ff595e  (hot red)
+# ~Golden Pollen  #ffca3a  (citrus yellow)
+# ~Yellow Green   #8ac926  (lime green)
+# ~Steel Blue     #1982c4  (cool blue)
+# ~Dusty Grape    #6a4c93  (royal purple)
+# Base black #1b2021, frame/border #f8f9fa
+
+accent = "#ffca3a"
+selection = "#4d435f"
+muted = "#6c757d"
+
+background = "#1b2021"
+dark_background = "#141819"
+darker_background = "#0f1213"
+lighter_background = "#343a40"
+
+foreground = "#e9ecef"
+dark_foreground = "#adb5bd"
+light_foreground = "#dee2e6"
+bright_foreground = "#f8f9fa"
+
+# ANSI — mapped from Vibrant Summer palette
+red = "#ff595e"
+yellow = "#ffca3a"
+orange = "#ff595e"
+green = "#8ac926"
+cyan = "#1982c4"
+blue = "#1982c4"
+magenta = "#6a4c93"
+brown = "#a67c2e"
+
+bright_red = "#ff7a7e"
+bright_yellow = "#ffd65e"
+bright_green = "#a5db4e"
+bright_cyan = "#3aa5e8"
+bright_blue = "#3aa5e8"
+bright_magenta = "#9370c4"
+
+# Frame: off-white #f8f9fa as requested
+hyprland_active_border = "rgba(f8f9faee)"
+hyprland_inactive_border = "rgba(343a40aa)"
